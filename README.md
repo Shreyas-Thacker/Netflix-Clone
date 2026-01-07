@@ -11,23 +11,6 @@ Responsive design mimicking the original Netflix interface.
 Showcase of popular Netflix titles.
 Hover animations for a more interactive feel.
 
-Getting Started :
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-Prerequisites :
-Any modern web browser (e.g., Chrome, Firefox, Safari).
-
-Installation :
-1. Clone the repository to your local machine:
-
-git clone https://github.com/Empty-Hacker/Netflix-Clone.git
-
-2.Navigate to the project directory:
-
-cd Netflix-Clone
-
-3.Open the index.html file in your web browser.
-
 Limitations :
 
 This clone is static and only for visual purposes. Functionalities like playing videos or user authentication are not implemented.
@@ -40,4 +23,5 @@ License :
 This project is open source and available under the MIT License.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
